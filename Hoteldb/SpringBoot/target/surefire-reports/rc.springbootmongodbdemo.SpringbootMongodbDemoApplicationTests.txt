@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: rc.springbootmongodbdemo.SpringbootMongodbDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.384 s - in rc.springbootmongodbdemo.SpringbootMongodbDemoApplicationTests
